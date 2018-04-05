@@ -1,2 +1,3 @@
-# Quantitative-Investment
-Quantitative Investment with Python
+# Quantitative-Investment in Python
+## Heisenburg Liu
+
